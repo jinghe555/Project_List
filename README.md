@@ -22,6 +22,8 @@
 地址： https://github.com/jinghe555/Pro_tx_on_BitcoinTestnet
 ## [17]research report on MPT
 地址： https://github.com/jinghe555/Pro_MPT
+## ** sm3实现
+地址： https://github.com/jinghe555/Pro_sm3_impl
 # 未完成的项目
 ## [4]do your best to optimize SM3 implementation (software)
 ## [6]Try to Implement this scheme(below)
