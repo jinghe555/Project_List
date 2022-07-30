@@ -15,8 +15,9 @@
 ## [10]Implement the above ECMH scheme
 ## [11]Implement a PGP scheme with SM2
 ## [15]send a tx on Bitcoin testnet, and parse the tx data down to every bit, better write script yourself
+地址： https://github.com/jinghe555/Pro_tx_on_BitcoinTestnet
 ## [17]research report on MPT
-https://github.com/jinghe555/Pro_MPT
+地址： https://github.com/jinghe555/Pro_MPT
 # 未完成的项目
 ## [4]do your best to optimize SM3 implementation (software)
 ## [6]Try to Implement this scheme(below)
