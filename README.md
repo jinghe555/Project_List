@@ -7,6 +7,7 @@
 ## [1]implement the naïve birthday attack of reduced SM3
 地址： https://github.com/jinghe555/Pro_sm3_BirthdayAttack
 ## [2]implement the Rho method of reduced SM3
+地址： https://github.com/jinghe555/Pro_sm3_rhoAttack
 ## [3]implement length extension attack for SM3,SHA256,etc
 地址： https://github.com/jinghe555/Pro_sm3_lengenthAttack
 ## [5]impl Merkle Tree following RFC6962
